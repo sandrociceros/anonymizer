@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "teste",
+    "owner": "sandro",
+    "description": "sdafasdf"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "teste",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "sandro"
+  }
+}
